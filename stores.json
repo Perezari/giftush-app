@@ -1,0 +1,963 @@
+{
+  "version": 1,
+  "updated": "2026-11-11",
+  "providers": {
+    "buyme": {
+      "name": "BuyMe",
+      "kind": "network",
+      "source": "https://buyme.co.il/supplier/13438757",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית של רשתות ארציות מתוך כ-1,300 בתי העסק של שובר BUYME ALL (חלקם גם באונליין), ושוברי BUYME אחרים כמו STYLE, FOODY, TOTAL או שובר למותג יחיד מתקבלים ברשימות אחרות – הרשימה המלאה במקור.",
+      "stores": [
+        {
+          "name": "H&M",
+          "category": "אופנה"
+        },
+        {
+          "name": "קסטרו (CASTRO)",
+          "category": "אופנה"
+        },
+        {
+          "name": "סטורי (STORY)",
+          "category": "אופנה"
+        },
+        {
+          "name": "גולף (&GOLF)",
+          "category": "אופנה"
+        },
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אמריקן איגל (American Eagle)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אירי (Aerie)",
+          "category": "אופנה"
+        },
+        {
+          "name": "מנגו (MANGO)",
+          "category": "אופנה"
+        },
+        {
+          "name": "הודיס (HOODIES)",
+          "category": "אופנה"
+        },
+        {
+          "name": "קרייזי ליין (Crazy Line)",
+          "category": "אופנה"
+        },
+        {
+          "name": "H&O",
+          "category": "אופנה"
+        },
+        {
+          "name": "אינטימה",
+          "category": "אופנה"
+        },
+        {
+          "name": "פולגת (POLGAT)",
+          "category": "אופנה"
+        },
+        {
+          "name": "סאנגלס האט (Sunglass Hut)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אלדו (ALDO)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "פוט לוקר (Foot Locker)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "טימברלנד (Timberland)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "סטיב מאדן (Steve Madden)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "קונברס (Converse)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "אדידס (adidas)",
+          "category": "ספורט"
+        },
+        {
+          "name": "נייקי (Nike)",
+          "category": "ספורט"
+        },
+        {
+          "name": "מגה ספורט",
+          "category": "ספורט"
+        },
+        {
+          "name": "דה נורת' פייס (The North Face)",
+          "category": "ספורט"
+        },
+        {
+          "name": "פוקס הום (FOX Home)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "H&M HOME",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "קסטרו הום (CASTRO HOME)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "גולף אנד קו (GOLF&CO)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "נאמן (NAAMAN)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "ורדינון (VARDINON)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "כיתן",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "סולתם",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "שקם אלקטריק",
+          "category": "אלקטרוניקה"
+        },
+        {
+          "name": "ביג אלקטריק",
+          "category": "אלקטרוניקה"
+        },
+        {
+          "name": "שילב",
+          "category": "ילדים ותינוקות"
+        },
+        {
+          "name": "דה צ'ילדרנס פלייס (The Children's Place)",
+          "category": "ילדים ותינוקות"
+        },
+        {
+          "name": "גולף קידס (Golf Kids)",
+          "category": "ילדים ותינוקות"
+        },
+        {
+          "name": "צומת ספרים",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "טויס אר אס (Toys R Us)",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "מאק (MAC)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "ללין (Laline)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "אסתי לאודר (Estée Lauder)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "לוקסיטן (L'OCCITANE)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "איל מקיאז' (IL MAKIAGE)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "אפריל (APRIL)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "מקדונלד'ס",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "בורגר קינג (Burger King)",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "KFC",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "לנדוור",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "ארקפה (Arcaffe)",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "קפה קפה (סניפים נבחרים)",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "קפה גרג (סניפים נבחרים)",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "בנדיקט",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "מקס ברנר",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "בורגראנץ'",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "מלונות פתאל",
+          "category": "נופש ומלונות"
+        },
+        {
+          "name": "מלונות ישרוטל",
+          "category": "נופש ומלונות"
+        },
+        {
+          "name": "מלונות בראון",
+          "category": "נופש ומלונות"
+        },
+        {
+          "name": "קולנוע לב",
+          "category": "פנאי ובילוי"
+        },
+        {
+          "name": "אופטיקנה",
+          "category": "אחר"
+        },
+        {
+          "name": "טרמינל X (TERMINAL X)",
+          "category": "אונליין"
+        }
+      ]
+    },
+    "tavhazahav": {
+      "name": "תו הזהב (שופרסל)",
+      "kind": "network",
+      "source": "https://www1.shufersal.co.il/tavcash",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית שלא אומתה מול הרשימה הרשמית של שופרסל (מעל 100 רשתות, משתנה ללא הודעה), התו לא מכובד בסופר-פארם, ומאז 30.6.2026 התו הדיגיטלי ממומש רק באפליקציית תו הזהב.",
+      "stores": [
+        {
+          "name": "שופרסל דיל",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שופרסל שלי",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שופרסל אקספרס",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "יש בשכונה",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "יוניברס",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שופרסל Online",
+          "category": "אונליין"
+        },
+        {
+          "name": "Be",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "H&M",
+          "category": "אופנה"
+        },
+        {
+          "name": "רנואר (RENUAR)",
+          "category": "אופנה"
+        },
+        {
+          "name": "דלתא (Delta)",
+          "category": "אופנה"
+        },
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "גולף (GOLF)",
+          "category": "אופנה"
+        },
+        {
+          "name": "קסטרו (Castro)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אדידס (adidas)",
+          "category": "ספורט"
+        },
+        {
+          "name": "הום סנטר",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "צומת ספרים",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "סטימצקי",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "מלונות פתאל",
+          "category": "נופש ומלונות"
+        },
+        {
+          "name": "אל על (EL AL)",
+          "category": "נופש ומלונות"
+        }
+      ]
+    },
+    "max": {
+      "name": "Max גיפט קארד",
+      "kind": "network",
+      "source": "https://www.max.co.il/cards/giftcards",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית מתוך כ-100 רשתות לפי עמודי ועלוני Max (הרשימה המעודכנת באפליקציית MYGIFT), כרטיס פיזי יש להעביר במסוף ולא להקליד, ו'סופר גיפט קארד' של Max הוא מוצר נפרד עם רשימה אחרת.",
+      "stores": [
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "גולף (GOLF)",
+          "category": "אופנה"
+        },
+        {
+          "name": "מנגו (MANGO)",
+          "category": "אופנה"
+        },
+        {
+          "name": "פקטורי 54 (Factory 54)",
+          "category": "אופנה"
+        },
+        {
+          "name": "H&O",
+          "category": "אופנה"
+        },
+        {
+          "name": "אינטימה",
+          "category": "אופנה"
+        },
+        {
+          "name": "TNT",
+          "category": "אופנה"
+        },
+        {
+          "name": "דלתא (Delta)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אייס קיוב (Ice Cube)",
+          "category": "אופנה"
+        },
+        {
+          "name": "דסיגואל (Desigual)",
+          "category": "אופנה"
+        },
+        {
+          "name": "טומי הילפיגר (Tommy Hilfiger)",
+          "category": "אופנה"
+        },
+        {
+          "name": "כיתן",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "מגה ספורט",
+          "category": "ספורט"
+        },
+        {
+          "name": "פוט לוקר (Foot Locker)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "טרמינל X (TERMINAL X)",
+          "category": "אונליין"
+        },
+        {
+          "name": "סינמה סיטי",
+          "category": "פנאי ובילוי"
+        },
+        {
+          "name": "מלונות אסטרל",
+          "category": "נופש ומלונות"
+        }
+      ]
+    },
+    "dreamcard": {
+      "name": "Dream Card",
+      "kind": "network",
+      "source": "https://www.dcgift.co.il/dream-card-gift-card",
+      "checked": "2026-11-11",
+      "note": "תו של קבוצת FOX בתוקף 5 שנים, שרשימת הרשתות שלו משתנה לפי סוג הכרטיס (למשל קידומת 72170 מול 72171), ובנייקי רק בחנויות שמפעילה FOX ולא בחנויות העודפים.",
+      "stores": [
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "פוקס הום (FOX Home)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "אמריקן איגל (American Eagle)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אירי (Aerie)",
+          "category": "אופנה"
+        },
+        {
+          "name": "מנגו (MANGO)",
+          "category": "אופנה"
+        },
+        {
+          "name": "בילבונג (Billabong)",
+          "category": "אופנה"
+        },
+        {
+          "name": "קוויקסילבר (Quiksilver)",
+          "category": "אופנה"
+        },
+        {
+          "name": "רובי ביי (Ruby Bay)",
+          "category": "אופנה"
+        },
+        {
+          "name": "סאנגלס האט (Sunglass Hut)",
+          "category": "אופנה"
+        },
+        {
+          "name": "נייקי (Nike)",
+          "category": "ספורט"
+        },
+        {
+          "name": "פוט לוקר (Foot Locker)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "ללין (Laline)",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "פליינג טייגר (Flying Tiger)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "דה צ'ילדרנס פלייס (The Children's Place)",
+          "category": "ילדים ותינוקות"
+        },
+        {
+          "name": "מיננה (Minene)",
+          "category": "ילדים ותינוקות"
+        }
+      ]
+    },
+    "nofshonit": {
+      "name": "נופשונית (Swish)",
+      "kind": "network",
+      "source": "https://swish.co.il/home",
+      "checked": "2026-11-11",
+      "note": "נופשונית משווקת היום את התווים במותג Swish (Swish Plus ו-Swish Perfect) והרשימה המלאה באתר נטענת דינמית ולא אומתה, כך שרשתות המזון והפארם כאן הן לפי Swish Perfect לשנת 2026 ושאר הרשתות מרשימות נופשונית Plus משנים 2022–2023.",
+      "stores": [
+        {
+          "name": "סופר-פארם",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "ויקטורי",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "מחסני השוק",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שקם אלקטריק",
+          "category": "אלקטרוניקה"
+        },
+        {
+          "name": "סקצ'רס (Skechers)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "אופטיקנה",
+          "category": "אחר"
+        }
+      ]
+    },
+    "multipass": {
+      "name": "מולטיפס (Multipass)",
+      "kind": "network",
+      "source": "https://multipass.co.il/",
+      "checked": "2026-11-11",
+      "note": "מולטיפס היא מערכת שמנפיקה וסולקת תווים של מנפיקים רבים (למשל Dream Card ותו פלוס) ואין לה רשימת רשתות משלה, ולכן יש לבדוק לפי שם התו שמופיע על הכרטיס.",
+      "stores": []
+    },
+    "isracard": {
+      "name": "ישראכרט GiftCard",
+      "kind": "network",
+      "source": "https://www.isracard.co.il/giftcard/isracard-stores/business",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית, כי לישראכרט כמה כרטיסים (GiftCard, GiftCard שופינג, דיגיטלי) עם רשימות רשתות שונות, ובדרך כלל אין מימוש באתרי הרשתות אלא אם צוין אחרת.",
+      "stores": [
+        {
+          "name": "H&M",
+          "category": "אופנה"
+        },
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "טומי הילפיגר (Tommy Hilfiger)",
+          "category": "אופנה"
+        },
+        {
+          "name": "גולף אנד קו (GOLF&CO)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "אלדו (ALDO)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "סטיב מאדן (Steve Madden)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "אסיקס (ASICS)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "הוואיאנס (Havaianas)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "ניין ווסט (Nine West)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "טימברלנד (Timberland)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "פומה (PUMA)",
+          "category": "ספורט"
+        },
+        {
+          "name": "מגה ספורט",
+          "category": "ספורט"
+        },
+        {
+          "name": "סטימצקי",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "צומת ספרים",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "טויס אר אס (Toys R Us)",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "ויקטורי",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "יוחננוף",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "טיב טעם",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "מקדונלד'ס",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "בורגר קינג (Burger King)",
+          "category": "מסעדות וקפה"
+        }
+      ]
+    },
+    "cal": {
+      "name": "כאל ויזה נטען",
+      "kind": "anywhere",
+      "source": "https://www.cal-online.co.il/business/more/useful-informations/prepaid/",
+      "checked": "2026-11-11",
+      "note": "לא נמצא גיפט קארד רב-רשתי של כאל, והמוצר הקרוב הוא כרטיס ויזה נטען של כאל (נמכר בסניפי דואר ישראל) שמתקבל בבתי עסק בארץ ובחו״ל שמכבדים ויזה.",
+      "stores": []
+    },
+    "shufersal": {
+      "name": "שופרסל",
+      "kind": "brand",
+      "source": "https://www1.shufersal.co.il/tavcash",
+      "checked": "2026-11-11",
+      "note": "כאן מופיעות רק רשתות קבוצת שופרסל, כי ה-GiftCard של שופרסל ותו הזהב מתקבלים גם בכל רשת תו הזהב.",
+      "stores": [
+        {
+          "name": "שופרסל דיל",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שופרסל שלי",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שופרסל אקספרס",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "יש בשכונה",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "יוניברס",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שופרסל Online",
+          "category": "אונליין"
+        },
+        {
+          "name": "Be",
+          "category": "טיפוח ויופי"
+        }
+      ]
+    },
+    "ramilevy": {
+      "name": "התו המלא",
+      "kind": "network",
+      "source": "https://tav.rami-levy.co.il/",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית מאתר התו המלא, שהרשתות וההגבלות בו משתנות ללא הודעה מוקדמת, ובקפה קפה המימוש בתו דיגיטלי בלבד.",
+      "stores": [
+        {
+          "name": "רמי לוי שיווק השקמה",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "רמי לוי בשכונה",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "רמי לוי אונליין",
+          "category": "אונליין"
+        },
+        {
+          "name": "גוד פארם",
+          "category": "טיפוח ויופי"
+        },
+        {
+          "name": "קופיקס",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "קפה קפה (תו דיגיטלי בלבד)",
+          "category": "מסעדות וקפה"
+        },
+        {
+          "name": "ישראייר",
+          "category": "נופש ומלונות"
+        },
+        {
+          "name": "שקם אלקטריק",
+          "category": "אלקטרוניקה"
+        },
+        {
+          "name": "הום סנטר",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "סינמה סיטי",
+          "category": "פנאי ובילוי"
+        },
+        {
+          "name": "צומת ספרים",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "קסטרו (Castro)",
+          "category": "אופנה"
+        },
+        {
+          "name": "לונגשאן (Longchamp)",
+          "category": "אופנה"
+        },
+        {
+          "name": "רובי ביי (Ruby Bay)",
+          "category": "אופנה"
+        },
+        {
+          "name": "אלדו (ALDO)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "טימברלנד (Timberland)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "קול איט ספרינג (Call It Spring)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "הוואיאנס (Havaianas)",
+          "category": "הנעלה"
+        },
+        {
+          "name": "ניין ווסט (Nine West)",
+          "category": "הנעלה"
+        }
+      ]
+    },
+    "victory": {
+      "name": "ויקטורי 100%",
+      "kind": "network",
+      "source": "https://victory.co.il/purchase-notes/",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית לפי דף ישן באתר ויקטורי, ויש גם תו נפרד 'ויקטורי מזון 100%' שתנאיו שונים, לכן כדאי לבדוק את סוג התו לפני הקנייה.",
+      "stores": [
+        {
+          "name": "ויקטורי",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "קסטרו (Castro)",
+          "category": "אופנה"
+        },
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "פוקס הום (FOX Home)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "צומת ספרים",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "המשביר לצרכן",
+          "category": "אחר"
+        }
+      ]
+    },
+    "fox": {
+      "name": "FOX",
+      "kind": "brand",
+      "source": "https://fox.co.il/pages/%D7%A8%D7%9B%D7%99%D7%A9%D7%94-%D7%91%D7%90%D7%AA%D7%A8-%D7%A2%D7%9D-%D7%A9%D7%95%D7%91%D7%A8%D7%99-%D7%A7%D7%A0%D7%99%D7%94-gift-card",
+      "checked": "2026-11-11",
+      "note": "כרטיס המתנה הרב-מותגי של קבוצת FOX הוא Dream Card, ואת גיפט קארד הקבוצה אפשר לממש גם באתר fox.co.il.",
+      "stores": [
+        {
+          "name": "פוקס (FOX)",
+          "category": "אופנה"
+        },
+        {
+          "name": "fox.co.il",
+          "category": "אונליין"
+        }
+      ]
+    },
+    "ikea": {
+      "name": "IKEA",
+      "kind": "brand",
+      "source": "https://www.ikea.com/il/he/customer-service/payment-options/giftcard-pub09a5df70/",
+      "checked": "2026-11-11",
+      "note": "תקף בחנויות איקאה בישראל ובמסעדות החנויות, ולפי התקנון לא ניתן לממש ברכישה מרחוק (באתר או בטלפון).",
+      "stores": [
+        {
+          "name": "איקאה (IKEA)",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "מסעדות איקאה",
+          "category": "מסעדות וקפה"
+        }
+      ]
+    },
+    "prepaid": {
+      "name": "כרטיס נטען (ויזה / מאסטרקארד)",
+      "kind": "anywhere",
+      "source": null,
+      "checked": "2026-11-11",
+      "note": "מתקבל בבתי עסק ובאתרים שמכבדים את מותג הכרטיס (ויזה או מאסטרקארד), בכפוף לתנאי המנפיק שעשויים להגביל שימוש בחו״ל או בסוגי עסקים מסוימים.",
+      "stores": []
+    },
+    "tavplus": {
+      "name": "תו פלוס",
+      "kind": "network",
+      "source": "https://www.tavplus.co.il/",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית לפי עלון תו פלוס מינואר 2026 (כמאה רשתות בסך הכול); הרשימה המלאה באתר תו פלוס.",
+      "stores": [
+        {
+          "name": "קרפור",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "יינות ביתן",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "מגה בעיר",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "שוק מהדרין",
+          "category": "סופרמרקט"
+        },
+        {
+          "name": "מחסני חשמל",
+          "category": "אלקטרוניקה"
+        },
+        {
+          "name": "FOX",
+          "category": "אופנה"
+        },
+        {
+          "name": "American Eagle",
+          "category": "אופנה"
+        },
+        {
+          "name": "Mango",
+          "category": "אופנה"
+        },
+        {
+          "name": "Foot Locker",
+          "category": "הנעלה"
+        },
+        {
+          "name": "adidas",
+          "category": "ספורט"
+        },
+        {
+          "name": "שילב",
+          "category": "ילדים ותינוקות"
+        }
+      ]
+    },
+    "giftzone": {
+      "name": "GiftZone",
+      "kind": "network",
+      "source": "https://www.htzone.co.il/item/51936",
+      "checked": "2026-11-11",
+      "note": "רשימה חלקית לפי עמוד המוצר בהייטקזון; לא בתוקף בחנויות העודפים ובאתרי הרשתות.",
+      "stores": [
+        {
+          "name": "קסטרו",
+          "category": "אופנה"
+        },
+        {
+          "name": "כיתן",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "גולף",
+          "category": "אופנה"
+        },
+        {
+          "name": "Golf&Co",
+          "category": "בית ועיצוב"
+        },
+        {
+          "name": "מגה ספורט",
+          "category": "ספורט"
+        },
+        {
+          "name": "צומת ספרים",
+          "category": "ספרים ומשחקים"
+        },
+        {
+          "name": "אינטימה",
+          "category": "אופנה"
+        },
+        {
+          "name": "פולגת",
+          "category": "אופנה"
+        },
+        {
+          "name": "ויקטורי",
+          "category": "סופרמרקט"
+        }
+      ]
+    },
+    "ofergift": {
+      "name": "Ofer Gift",
+      "kind": "network",
+      "source": null,
+      "checked": "2026-11-11",
+      "note": "מתקבל בכ-2,400 החנויות ב-18 קניוני עופר, כולל סופרמרקטים, פארם ובתי קולנוע, לפי פרסומים בעיתונות.",
+      "stores": []
+    },
+    "happygift": {
+      "name": "Happy Gift",
+      "kind": "network",
+      "source": null,
+      "checked": "2026-11-11",
+      "note": "ל-Happy Gift כמה סוגים: Classic ו-Holiday מתקבלים ברשתות שברשימה של קשרים פלוס, ו-HappyGift Global הוא מאסטרקארד נטען שמתקבל בכל מקום.",
+      "stores": []
+    },
+    "maxsuper": {
+      "name": "Max סופר גיפט",
+      "kind": "network",
+      "source": "https://www.max.co.il/giftcards/super-giftcard",
+      "checked": "2026-11-11",
+      "note": "כרטיס נפרד מ-Max גיפט קארד, בעיקר לרשתות מזון, Wolt, טיסות ומלונות; הרשימה המלאה באתר Max.",
+      "stores": []
+    },
+    "zara": {
+      "name": "ZARA",
+      "kind": "brand",
+      "source": "https://www.zara.com/il/",
+      "checked": "2026-11-11",
+      "note": "בחנויות ZARA בישראל, ולפי עזרת האתר גם כאמצעי תשלום באתר.",
+      "stores": []
+    },
+    "wolt": {
+      "name": "Wolt",
+      "kind": "brand",
+      "source": "https://explore.wolt.com/en/isr/legal/terms/gift-cards",
+      "checked": "2026-11-11",
+      "note": "נטען לחשבון Wolt ומשמש להזמנות באפליקציה ובאתר.",
+      "stores": []
+    }
+  }
+}
